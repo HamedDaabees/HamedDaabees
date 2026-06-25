@@ -61,8 +61,8 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 ### Stats
 
 <p>
-  <img alt="HamedDaabies GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HamedDaabies&show_icons=true&hide_border=true&theme=default" height="160">
-  <img alt="HamedDaabies top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabies&layout=compact&hide_border=true&theme=default" height="160">
+  <img alt="HamedDaabees GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HamedDaabees&show_icons=true&hide_border=true&theme=default" height="160">
+  <img alt="HamedDaabees top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabees&layout=compact&hide_border=true&theme=default" height="160">
 </p>
 
 ---
